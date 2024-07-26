@@ -16,7 +16,7 @@
    - `ox_target`
    - `ox_inventory` 
 
-6. Rediger følgende i din fxmanifest til at tilpasse til server:
+6. Rediger følgende i din fxmanifest til at tilpasse til din server:
  Skriv "--" foran de ting du ikke bruger, fx - `-- 'qb-core',  -- For QBCore`
    ```
    dependencies {
