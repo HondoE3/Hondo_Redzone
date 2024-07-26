@@ -12,7 +12,7 @@
    - `ox_lib`
    - `oxmysql`
    - `qb-core` (hvis du bruger qb-core)
-   - `es_extended` (hvis du bruger qbx_core)
+   - `es_extended` (hvis du bruger ESX)
    - `ox_target`
    - `ox_inventory` 
 
