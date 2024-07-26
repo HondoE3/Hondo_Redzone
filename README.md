@@ -25,3 +25,4 @@
     'qb-core',  -- For QBCore
     'es_extended'  -- For ESX
 }
+```
